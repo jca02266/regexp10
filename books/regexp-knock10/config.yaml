@@ -1,0 +1,16 @@
+title: "正規表現10本ノック"
+summary: "対象者：正規表現について何も知らないけど、なんとなく知ってたら便利そうと思ってる人」の練習用を目指す"
+topics: [regexp]
+published: false
+price: 0
+chapters:
+  - regexp-knock000.md
+  - regexp-knock001.md
+  - regexp-knock002.md
+  - regexp-knock003.md
+  - regexp-knock004.md
+  - regexp-knock005.md
+  - regexp-knock006.md
+  - regexp-knock007.md
+  - regexp-knock008.md
+  - regexp-knock009.md
